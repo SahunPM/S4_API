@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-image: url('fondo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button {
+    background-color: rgb(80, 205, 205);
+    border: solid 1px rgb(80, 205, 205);
+    border-radius: 3px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+h1 {
+    margin-top: 40px;
+}
+
+#temperatura {
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+#chiste {
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 170px;
+}
+
+#sig {
+    margin-top: 10px;
+}
